@@ -24,7 +24,7 @@ Plots for model accuracy and loss are following:
 
 ![alt text](./output/loss_5000images_15epochs.PNG?raw=true "Model loss with 5000 images")
 
-![alt text](./output/accuracy_18000images_15epochs.PNG?raw=true "Model accuracy with 18000 images")
+![alt text](./output/accuracy_18000images_15epochs.png?raw=true "Model accuracy with 18000 images")
 
 ![alt text](./output/loss_18000images_15epochs.PNG?raw=true "Model loss with 18000 images")
 
