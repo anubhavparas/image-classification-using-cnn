@@ -9,7 +9,7 @@ Refer to the [report](Report.pdf) and [code](./Code) for the approach and implem
     - number of epochs = 15
     - training data / validation data split = 80/20
     - MODEL 
-        - CONV layers with batch norm - **32 x 64 x 96 x 96 x 64**
+        - CONV 3x3 filter layers with batch norm - **32 x 64 x 96 x 96 x 64**
         - Dense layers with drop out of 0.2 and 0.3 - 256 x 128 x 2 
         - loss: 0.0638 
         - accuracy: 0.9759 
